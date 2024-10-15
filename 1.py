@@ -1,1 +1,1 @@
-print("qqq啊啊啊啊啊啊啊啊啊啊")
+print("asdasdas")
